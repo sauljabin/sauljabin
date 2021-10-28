@@ -10,6 +10,6 @@
 
 #### Top Repositories :ringed_planet:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/sauljabin/kaskade">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sauljabin&theme=buefy&repo=kaskade" />
 </a>
