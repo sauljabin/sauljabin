@@ -11,5 +11,5 @@
 </a>
 
 <a href="https://github.com/sauljabin/kayak">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sauljabin&theme=nightowl&repo=kayak" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=littlehorse-enterprises&theme=nightowl&repo=littlehorse" />
 </a>
