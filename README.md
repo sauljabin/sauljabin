@@ -10,6 +10,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sauljabin&theme=nightowl&repo=kaskade" />
 </a>
 
-<a href="https://github.com/sauljabin/kayak">
+<a href="https://github.com/littlehorse-enterprises/littlehorse">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=littlehorse-enterprises&theme=nightowl&repo=littlehorse" />
 </a>
