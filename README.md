@@ -25,4 +25,4 @@ I am a software developer with extensive experience in Apache Kafka and distribu
 ![Prometheus](https://img.shields.io/badge/prometheus-E6522C?logo=prometheus&logoColor=white)
 
 [![GitHub Sponsor](https://img.shields.io/badge/become%20a%20sponsor-EA4AAA?logo=github-sponsors&logoColor=white)](https://github.com/sponsors/sauljabin)
-[![LinkedIn](https://img.shields.io/badge/more%20about%20me-0A66C2?logo=linkedin&logoColor=white)](https://github.com/sponsors/sauljabin)
+[![LinkedIn](https://img.shields.io/badge/more%20about%20me-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sauljabin/)
