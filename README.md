@@ -20,6 +20,7 @@ I am a software developer with extensive experience in Apache Kafka and distribu
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF?logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-D24939?logo=jenkins&logoColor=white)
 ![Argo](https://img.shields.io/badge/argo-EF7B4D?logo=argo&logoColor=white)
+![Helm](https://img.shields.io/badge/helm-0F1689?logo=helm&logoColor=white)
 - I monitor with
 ![Grafana](https://img.shields.io/badge/grafana-F46800?logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/prometheus-E6522C?logo=prometheus&logoColor=white)
