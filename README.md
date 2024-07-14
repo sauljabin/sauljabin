@@ -10,7 +10,7 @@
 - 🐧 I use Ubuntu
 - 🚀 My personal Open-source project is [kaskade](https://github.com/sauljabin/kaskade)
 - 🧙🏾‍♂️ I like D&D
-- 🎮 I love to play video games
+- 🎮 I love playing video games
 
 [![kaskade](https://img.shields.io/badge/kaskade-af5fd7)](https://github.com/sauljabin/kaskade)
 [![donate](https://img.shields.io/badge/donate-EA4AAA)](https://github.com/sponsors/sauljabin)
