@@ -1,11 +1,12 @@
 <h2 align="left">Hi there, I'm Saúl Piña <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" /></h2>
 
 - 🧑🏽‍💻 I'm a Software Engineer
-- 🏢 I’m currently working at [LittleHorse](https://github.com/littlehorse-enterprises)
+- 🐎 I’m currently working at [LittleHorse](https://github.com/littlehorse-enterprises)
 - ⭐ I have extensive experience in Apache Kafka
 - 🦦 And some in Kafka Streams
 - ☕ I develop on Java
 - 🐍 And Python
+- 🏗️ I'm passionate about Kubernetes, ArgoCD, Terraform and Docker
 - 🐧 I use Ubuntu
 - 🚀 My personal Open-source is [kaskade](https://github.com/sauljabin/kaskade)
 - 🧙🏾‍♂️ I like D&D
