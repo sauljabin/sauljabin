@@ -2,7 +2,7 @@
 
 - 🧑🏽‍💻 I'm a Software Engineer
 - 🐎 I’m currently working at [LittleHorse](https://github.com/littlehorse-enterprises)
-- ⭐ I have extensive experience in Apache Kafka
+- 🪶 I have extensive experience in Apache Kafka
 - 🦦 and some in Kafka Streams
 - ☕ I develop on Java
 - 🐍 and Python
