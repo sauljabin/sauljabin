@@ -3,9 +3,9 @@
 - 🧑🏽‍💻 I'm a Software Engineer
 - 🐎 I’m currently working at [LittleHorse](https://github.com/littlehorse-enterprises)
 - ⭐ I have extensive experience in Apache Kafka
-- 🦦 And some in Kafka Streams
+- 🦦 and some in Kafka Streams
 - ☕ I develop on Java
-- 🐍 And Python
+- 🐍 and Python
 - 🏗️ I'm passionate about Github Actions, Kubernetes, ArgoCD, Terraform and Docker
 - 🐧 I use Ubuntu
 - 🚀 My personal Open-source is [kaskade](https://github.com/sauljabin/kaskade)
