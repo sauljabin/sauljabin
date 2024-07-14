@@ -8,7 +8,7 @@
 - 🐍 and Python
 - 🏗️ I'm passionate about Github Actions, Kubernetes, ArgoCD, Terraform and Docker
 - 🐧 I use Ubuntu
-- 🚀 My personal Open-source is [kaskade](https://github.com/sauljabin/kaskade)
+- 🚀 My personal Open-source project is [kaskade](https://github.com/sauljabin/kaskade)
 - 🧙🏾‍♂️ I like D&D
 - 🎮 I love to play video games
 
