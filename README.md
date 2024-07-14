@@ -12,7 +12,7 @@
 - 🧙🏾‍♂️ I like D&D
 - 🎮 I love playing video games
 
-[![kaskade](https://img.shields.io/badge/kaskade-af5fd7)](https://github.com/sauljabin/kaskade)
+[![kaskade](https://img.shields.io/badge/kaskade-blueviolet)](https://github.com/sauljabin/kaskade)
 [![donate](https://img.shields.io/badge/donate-EA4AAA)](https://github.com/sponsors/sauljabin)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2)](https://www.linkedin.com/in/sauljabin)
 [![littlehorse](https://img.shields.io/badge/littlehorse-gray)](https://github.com/littlehorse-enterprises/littlehorse)
