@@ -6,7 +6,7 @@
 - 🦦 And some in Kafka Streams
 - ☕ I develop on Java
 - 🐍 And Python
-- 🏗️ I'm passionate about Kubernetes, ArgoCD, Terraform and Docker
+- 🏗️ I'm passionate about Github Actions, Kubernetes, ArgoCD, Terraform and Docker
 - 🐧 I use Ubuntu
 - 🚀 My personal Open-source is [kaskade](https://github.com/sauljabin/kaskade)
 - 🧙🏾‍♂️ I like D&D
