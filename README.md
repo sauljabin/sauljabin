@@ -3,6 +3,10 @@
 - 🧑🏽‍💻 I'm a Software Engineer
 - 🏢 I’m currently working at [LittleHorse](https://github.com/littlehorse-enterprises)
 - ⭐ I have extensive experience in Apache Kafka
+- 🦦 And some in Kafka Streams
+- ☕ I develop on Java
+- 🐍 And Python
+- 🐧 I use Ubuntu
 - 🚀 My personal Open-source is [kaskade](https://github.com/sauljabin/kaskade)
 - 🧙🏾‍♂️ I like D&D
 - 🎮 I love to play video games
