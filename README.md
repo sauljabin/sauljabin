@@ -10,7 +10,7 @@
 🏗️ I'm passionate about Github Actions, Kubernetes, Operators, Helm, ArgoCD and Docker<br/>
 🐧 I use Ubuntu<br/>
 🚀 My personal Open-source project is [kaskade](https://github.com/sauljabin/kaskade)<br/>
-🧙🏾‍♂️ I like D&D<br/>
+🧙🏾‍♂️ I'm a D&D fan<br/>
 🎮 I love playing video games
 
 [![kaskade](https://img.shields.io/badge/kaskade-blueviolet)](https://github.com/sauljabin/kaskade)
