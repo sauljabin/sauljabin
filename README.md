@@ -13,8 +13,10 @@
 🧙🏾‍♂️ playing D&D,<br/>
 🎮 and video games.
 
-### Featured links
+<h2 align="left">Featured links</h2>
 
-[![Kaskade — Kafka TUI](https://img.shields.io/badge/Kaskade-Kafka%20TUI-6F42C1?style=for-the-badge&logo=apachekafka&logoColor=white)](https://github.com/sauljabin/kaskade)
-[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-My%20Work-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/sauljabin)
-[![LittleHorse — Workflow Engine](https://img.shields.io/badge/LittleHorse-Workflow%20Engine-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/littlehorse-enterprises/littlehorse)
+<p align="center">
+  <a href="https://github.com/sauljabin/kaskade"><img src="https://img.shields.io/badge/Kaskade-Kafka%20TUI-6F42C1?style=for-the-badge&logo=apachekafka&logoColor=white" height="24" alt="Kaskade — Kafka TUI" /></a>
+  <a href="https://github.com/sponsors/sauljabin"><img src="https://img.shields.io/badge/Sponsor-My%20Work-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" height="24" alt="Sponsor on GitHub" /></a>
+  <a href="https://github.com/littlehorse-enterprises/littlehorse"><img src="https://img.shields.io/badge/LittleHorse-Workflow%20Engine-F97316?style=for-the-badge&logo=github&logoColor=white" height="24" alt="LittleHorse — Workflow Engine" /></a>
+</p>
