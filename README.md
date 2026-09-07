@@ -15,7 +15,7 @@
 
 <h2 align="left">Featured links</h2>
 
-<p>
+<p align="center">
   <a href="https://github.com/sponsors/sauljabin"><img src="https://img.shields.io/badge/Sponsor-My%20Work-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" height="24" alt="Sponsor on GitHub" /></a>
   <a href="https://github.com/sauljabin/kaskade"><img src="https://img.shields.io/badge/Kaskade-Kafka%20TUI-6F42C1?style=for-the-badge&logo=github&logoColor=white" height="24" alt="Kaskade — Kafka TUI" /></a>
   <a href="https://github.com/sauljabin/kantrip"><img src="https://img.shields.io/badge/Kantrip-Kafka%20CLI-0b9ed9?style=for-the-badge&logo=github&logoColor=white" height="24" alt="Kantrip — Kafka CLI" /></a>
